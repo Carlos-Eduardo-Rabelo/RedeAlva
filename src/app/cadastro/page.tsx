@@ -23,11 +23,11 @@ export default function Cadastro() {
                 <h1>Comércio</h1>
                 <p>Escolha uma das opções abaixo para fazer o comércio de ENERGIA:</p>
                 <div className='flex flex-col items-center md:flex-row'>
-                    <Link href="/comercios/cad-comercios">
-                        <button className='botao'>Cadastrar Comércio</button>
+                    <Link href="/comercios/cad-cumunidades">
+                        <button className='botao'>Cadastrar Comunidade</button>
                     </Link>
-                    <Link href="/armazenamentos/cad-armazenamentos">
-                        <button className='botao'>Cadastrar Armazenamento</button>
+                    <Link href="/armazenamentos/cad-unidades">
+                        <button className='botao'>Cadastrar Unidade</button>
                     </Link>
                 </div>
                 <button onClick={logout} className="mt-8 px-4 py-2 text-black bg-gray-200 rounded hover:bg-red-700 mb-6">Sair</button>
