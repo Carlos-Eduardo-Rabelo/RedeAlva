@@ -1,7 +1,6 @@
 "use client";
 
 import { TipoArmazenamento} from "@/types/types";
-import { useRouter } from "next/navigation";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import { MdDelete } from "react-icons/md";
