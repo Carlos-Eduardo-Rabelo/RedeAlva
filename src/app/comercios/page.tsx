@@ -1,6 +1,6 @@
 "use client";
 
-import { TipoComercio, TipoComunidade } from "@/types/types";
+import { TipoComercio} from "@/types/types";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
