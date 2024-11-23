@@ -1,6 +1,6 @@
 "use client";
 
-import { TipoArmazenamento, TipoComunidade } from "@/types/types";
+import { TipoArmazenamento} from "@/types/types";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 
