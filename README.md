@@ -29,7 +29,7 @@ Essas funcionalidades foram projetadas para tornar a navegação e o uso do site
 - 👤 Carlos Eduardo Rabelo Souza 558470 
 
 ## Link do vídeo
-
+https://youtu.be/0rfx12QBm2I
 
 ## Link do repositório
 https://github.com/Carlos-Eduardo-Rabelo/RedeAlva.git
