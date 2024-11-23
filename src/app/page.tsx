@@ -9,7 +9,7 @@ import Link from "next/link";
 import Monteiro from "@/img/monteiro.jpg"
 import Petruk from "@/img/petruk.jpg"
 import Github from "@/img/github.png"
-import Carlos from "@/img/Carlos.jpeg"
+import Carlos from "@/img/carlos.jpeg"
 import Linkedin from "@/img/linkedin.svg"
 
 export default function Home () {
