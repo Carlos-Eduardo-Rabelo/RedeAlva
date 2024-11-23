@@ -39,6 +39,9 @@ https://github.com/sofiapetruk/greenenergy.git
 
 ## Link do site
 https://redealva.vercel.app/
+o projeto está funcionando perfeitamente no localhost
+ao dar npm run build, ele da conflito no globals.css e muitas classes ficam bugadas
+mas novamente, no localhost ele funciona
 
 
 # Como Rodar o Código 🚀
